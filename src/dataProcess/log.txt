@@ -1,0 +1,51 @@
+Chassis installed!
+Axels installed!
+Brakes installed!
+Gearbox installed!
+Transmission installed!
+Doors installed!
+Painted
+VIN engraved!
+Car completed!
+Chassis installed!
+Axels installed!
+Brakes installed!
+Gearbox installed!
+Transmission installed!
+Sensors installed!
+Doors installed!
+Painted
+Not enough materials to engrave VIN!
+Car could not be completed!
+Chassis installed!
+Axels installed!
+Brakes installed!
+Gearbox installed!
+Transmission installed!
+Sensors installed!
+Doors installed!
+Not enough materials to paint!
+Car could not be completed!
+Chassis installed!
+Chassis installed!
+Axels installed!
+Axels installed!
+Brakes installed!
+Brakes installed!
+Gearbox installed!
+Gearbox installed!
+Transmission installed!
+Transmission installed!
+Sensors installed!
+Doors installed!
+Doors installed!
+Painted
+Painted
+VIN engraved!
+Not enough materials to engrave VIN!
+Car could not be completed!
+Car completed!
+Chassis installed!
+Chassis installed!
+Chassis installed!
+Chassis installed!

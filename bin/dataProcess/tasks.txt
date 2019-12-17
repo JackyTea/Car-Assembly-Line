@@ -1,0 +1,47 @@
+# Description
+name=Honda Civic
+year=2006
+vin=JM1BL1SG6A1105346
+optional=false
+
+# Task1
+task1=GET_CHASSIS
+ip1=127.0.01
+port1=27001
+
+# Task2
+task2=INSTALL_AXELS
+ip2=127.0.01
+port2=27002
+
+# Task3
+task3=INSTALL_BRAKES
+ip3=127.0.01
+port3=27003
+
+# Task4
+task4=INSTALL_GEARBOX
+ip4=127.0.01
+port4=27004
+
+# Task5
+task5=INSTALL_TRANSMISSION
+ip5=127.0.01
+port5=27005
+
+# Task6
+task6=INSTALL_DOORS
+ip6=127.0.01
+port6=27006
+
+# Task7
+task7=PAINT
+ip7=127.0.01
+port7=27007
+
+# Task8
+task8=ENGRAVE_VIN
+ip8=127.0.01
+port9=27009
+
+

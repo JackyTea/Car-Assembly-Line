@@ -1,0 +1,52 @@
+# Description
+name=Toyota Camry
+year=2019
+vin=1FTEX18L4VKC52075
+optional=true
+
+# Task1
+task1=GET_CHASSIS
+ip1=127.0.01
+port1=27001
+
+# Task2
+task2=INSTALL_AXELS
+ip2=127.0.01
+port2=27002
+
+# Task3
+task3=INSTALL_BRAKES
+ip3=127.0.01
+port3=27003
+
+# Task4
+task4=INSTALL_GEARBOX
+ip4=127.0.01
+port4=27004
+
+# Task5
+task5=INSTALL_TRANSMISSION
+ip5=127.0.01
+port5=27005
+
+# Task6
+task6=INSTALL_SENSORS
+ip6=127.0.01
+port6=27006
+
+# Task7
+task7=INSTALL_DOORS
+ip7=127.0.01
+port7=27007
+
+# Task8
+task8=PAINT
+ip8=127.0.01
+port8=27008
+
+# Task9
+task9=ENGRAVE_VIN
+ip9=127.0.01
+port9=27009
+
+
